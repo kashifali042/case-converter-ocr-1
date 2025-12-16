@@ -12,6 +12,9 @@
     "tailwindcss"
   ],
   "author": "Faize khan",
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@tensorflow-models/body-pix": "^2.2.1",
